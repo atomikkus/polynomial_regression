@@ -16,7 +16,11 @@ where:
 By including higher-degree polynomial terms, polynomial regression can better fit nonlinear patterns in the data. However, selecting an appropriate degree for the polynomial is crucial to prevent overfitting or underfitting. Polynomial regression is a powerful tool in predictive modeling when relationships between variables are not linear and require a more flexible approach to capture the underlying patterns in the data.
 ![image](https://github.com/atomikkus/polynomial_regression/assets/87168509/fe063f23-a5b9-4a1e-93f3-556d5b459583)
 
-Hyperparameter Tuning: Regularization
+## Hyperparameter Tuning: Regularization
+
+Polynomial Regression models can tend to overfit, when increase their degree in return for a better R2
+![image](https://github.com/atomikkus/polynomial_regression/assets/87168509/aea8a88a-26d7-457f-8695-46e23c3cbe4d)
+
 
 ### Ridge Regression
 
