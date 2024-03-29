@@ -21,6 +21,7 @@ By including higher-degree polynomial terms, polynomial regression can better fi
 Polynomial Regression models can tend to overfit, when increase their degree in return for a better R2
 ![image](https://github.com/atomikkus/polynomial_regression/assets/87168509/aea8a88a-26d7-457f-8695-46e23c3cbe4d)
 
+You can either decrease the degree and sacrifice the higher performance and adjust the weights learned globally, that's where Regularisation helps:
 
 ### Ridge Regression
 
