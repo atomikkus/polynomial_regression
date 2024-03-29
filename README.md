@@ -14,3 +14,16 @@ where:
 - $\varepsilon$ represents the error term.
 
 By including higher-degree polynomial terms, polynomial regression can better fit nonlinear patterns in the data. However, selecting an appropriate degree for the polynomial is crucial to prevent overfitting or underfitting. Polynomial regression is a powerful tool in predictive modeling when relationships between variables are not linear and require a more flexible approach to capture the underlying patterns in the data.
+
+
+Citations:
+
+[1] https://www.geeksforgeeks.org/python-implementation-of-polynomial-regression/
+
+[2] https://www.javatpoint.com/machine-learning-polynomial-regression
+
+[3] https://stats.stackexchange.com/questions/92065/why-is-polynomial-regression-considered-a-special-case-of-multiple-linear-regres
+
+[4] https://towardsdatascience.com/introduction-to-linear-regression-and-polynomial-regression-f8adc96f31cb
+
+[5] https://en.wikipedia.org/wiki/Polynomial_regression
